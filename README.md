@@ -2,7 +2,8 @@
 Technical Lead / Software Developer
 
 🌱 I'm exploring:  
-- Machine learning, mathematical, and electrical engineering concepts  
+- Machine learning and mathematical concepts
+- Open source development  
 - Game development with MonoGame  
 - Automation and data pipelines
 
