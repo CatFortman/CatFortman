@@ -1,6 +1,6 @@
 # Hi, I'm Cat 🐱  
-Technical Lead / Software Developer 
-Connect with me here: [LinkedIn](https://www.linkedin.com/in/cat-fortman/)
+Technical Lead / Software Developer passionate about building impactful software and exploring new technologies.
+<br>Connect with me here: [LinkedIn](https://www.linkedin.com/in/cat-fortman/)
 
 ## I'm interested in:  
 - Machine learning and mathematical concepts
@@ -9,17 +9,18 @@ Connect with me here: [LinkedIn](https://www.linkedin.com/in/cat-fortman/)
 - Automation and data pipelines
 
 ## Technologies I work with:  
-- .NET (C#, ASP.NET), SQL Server, Node.js  
+- .NET (C#, ASP.NET), ML.NET, MonoGame, SQL Server, Node.js  
 
 ## Projects
-### [MigrationTracker](https://github.com/CatFortman/MigrationTracker)
- Helps track and apply migrations to your databases.
 
-### [MonoGameTemplate.Net8](https://github.com/CatFortman/MonoGameTemplate.Net8)
- A .NET 8 MonoGame template containing a library for sprite and texture rendering.
+### [MigrationTracker](https://github.com/CatFortman/MigrationTracker)  
+Helps track and apply migrations to your databases.
 
-### [SampleSqlScripts](https://github.com/CatFortman/SampleSqlScripts)
-A collection of sample sql scripts that demonstrate various SQL concepts.
+### [MonoGameTemplate.Net8](https://github.com/CatFortman/MonoGameTemplate.Net8)  
+A .NET 8 MonoGame template containing a library for sprite and texture rendering.
+
+### [SampleSqlScripts](https://github.com/CatFortman/SampleSqlScripts)  
+A collection of sample SQL scripts demonstrating various SQL concepts.
 
 
 ## GitHub Stats
