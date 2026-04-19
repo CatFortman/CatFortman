@@ -30,7 +30,7 @@ A .NET 8 MonoGame template containing a library for sprite and texture rendering
 
 A collection of sample SQL scripts demonstrating various SQL concepts.
 
-#### [SampleSqlScripts](https://github.com/CatFortman/OpenIddictAuthorizationServer) ![.NET](https://img.shields.io/badge/.NET-9.0-blue)
+#### [OpenIddictAuthorizationServer](https://github.com/CatFortman/OpenIddictAuthorizationServer) ![.NET](https://img.shields.io/badge/.NET-9.0-blue)
 
 An authorization server using the OAuth2.0 AuthorizationCode flow.
 
