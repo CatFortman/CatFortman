@@ -2,7 +2,7 @@
 Technical Lead / Software Developer buiding open-source software to grow and help others.
 
 **Technologies I work with:**  
-- .NET (C#, ASP.NET), ML.NET, MonoGame, SQL Server, Node.js
+- .NET (C#, ASP.NET, .NET Core, ML.NET), MonoGame, SQL Server, Azure Cloud Services
 
 **Connect with me here:** [LinkedIn](https://www.linkedin.com/in/cat-fortman/)
 
