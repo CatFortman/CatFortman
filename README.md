@@ -20,17 +20,6 @@ I work primarily on building reliable, maintainable software systems and explori
 
 ---
 
-## 🧠 Focus Areas
-
-- Backend system design and API architecture  
-- Identity and authentication systems  
-- Cloud-native and event-driven systems  
-- Database engineering and migration tooling  
-- Full-stack application development  
-- Game engine and framework design  
-
----
-
 ## Highlighted Projects
 
 ### [MigrationTracker](https://github.com/CatFortman/MigrationTracker)  
@@ -60,6 +49,52 @@ Collection of SQL Server scripts covering database operations, debugging, schema
 OAuth2 / OpenID Connect authorization server implementing authentication flows using OpenIddict.
 
 ---
+
+## 🧭 Architecture Map
+
+My projects are intentionally grouped around three core engineering domains:
+
+---
+
+### 1. Application Systems (User-Facing Software)
+
+These are full-stack or interactive systems built for end users.
+
+- **MatchConnect.FullStack**
+  - Full-stack SPA with authentication, messaging, and media handling
+  - Demonstrates secure API + frontend integration
+
+- **MonoGameTemplate.Net8**
+  - Game application architecture and reusable framework structure
+  - Demonstrates client-side system design outside of web stack
+
+---
+
+### 2. Platform & Infrastructure Systems
+
+These focus on backend engineering, security, and system reliability.
+
+- **OpenIddictAuthorizationServer**
+  - Identity provider and OAuth2 server implementation
+  - Demonstrates authentication and security architecture
+
+- **MigrationTracker**
+  - Database schema versioning and deployment control system
+  - Demonstrates infrastructure automation and reliability patterns
+
+---
+
+### 3. Data & Operational Systems
+
+These focus on data flow, diagnostics, and operational tooling.
+
+- **SqlServer.EngineeringToolkit**
+  - SQL Server operational toolkit for debugging and schema analysis
+  - Demonstrates production-style database troubleshooting patterns
+
+- *(Future direction: Azure Event-Driven Pipeline)*
+  - Event-based ingestion → processing → storage → analytics
+  - Will unify data, logging, and automation concepts
 
 ## GitHub Stats
 
