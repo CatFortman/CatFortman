@@ -49,52 +49,58 @@ Collection of SQL Server scripts covering database operations, debugging, schema
 OAuth2 / OpenID Connect authorization server implementing authentication flows using OpenIddict.
 
 ---
-
 ## 🧭 Architecture Map
 
-My projects are intentionally grouped around three core engineering domains:
+```mermaid
+graph LR
 
----
+%% =====================
+%% Application Systems
+%% =====================
+subgraph A[Application Systems]
+    MC[MatchConnect.FullStack]
+    MG[MonoGameTemplate.Net8]
+end
 
-### 1. Application Systems (User-Facing Software)
+%% =====================
+%% Platform Systems
+%% =====================
+subgraph B[Platform & Infrastructure Systems]
+    AUTH[OpenIddict.AuthorizationServer]
+    MIG[MigrationTracker]
+end
 
-These are full-stack or interactive systems built for end users.
+%% =====================
+%% Data Systems
+%% =====================
+subgraph C[Data & Operational Systems]
+    SQL[SqlServer.EngineeringToolkit]
+end
 
-- **MatchConnect.FullStack**
-  - Full-stack SPA with authentication, messaging, and media handling
-  - Demonstrates secure API + frontend integration
+%% =====================
+%% Future Work
+%% =====================
+subgraph D[Future Direction]
+    AZ[Azure Event-Driven Pipeline]
+end
 
-- **MonoGameTemplate.Net8**
-  - Game application architecture and reusable framework structure
-  - Demonstrates client-side system design outside of web stack
+%% =====================
+%% Main system flow (left → right)
+%% =====================
 
----
+MC --> AUTH
+MC --> SQL
 
-### 2. Platform & Infrastructure Systems
+MG --> MC
 
-These focus on backend engineering, security, and system reliability.
+AUTH --> MC
 
-- **OpenIddictAuthorizationServer**
-  - Identity provider and OAuth2 server implementation
-  - Demonstrates authentication and security architecture
+MIG --> SQL
+SQL --> MIG
 
-- **MigrationTracker**
-  - Database schema versioning and deployment control system
-  - Demonstrates infrastructure automation and reliability patterns
-
----
-
-### 3. Data & Operational Systems
-
-These focus on data flow, diagnostics, and operational tooling.
-
-- **SqlServer.EngineeringToolkit**
-  - SQL Server operational toolkit for debugging and schema analysis
-  - Demonstrates production-style database troubleshooting patterns
-
-- *(Future direction: Azure Event-Driven Pipeline)*
-  - Event-based ingestion → processing → storage → analytics
-  - Will unify data, logging, and automation concepts
+AZ --> SQL
+AZ --> MIG
+```
 
 ## GitHub Stats
 
