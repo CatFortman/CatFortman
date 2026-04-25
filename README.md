@@ -11,7 +11,7 @@ I specialize in designing and building reliable, maintainable software systems a
 |--------|-------------|
 | ⚙️ .NET / ASP.NET Core | Full-stack web applications (MatchConnect, Auth systems) |
 | ☁️ Azure Cloud Services | Event-driven architecture exploration (in progress) |
-| 🔐 Authentication / OAuth2 / JWT | OpenIddictAuthorizationServer |
+| 🔐 Authentication / OAuth2 / JWT | OpenIddict.AuthorizationServer |
 | 🗄️ SQL Server / Data Design | MigrationTracker, SQL toolkit |
 | 🌐 SPA Development (TypeScript) | Angular-based client architecture |
 | 🎮 Game Development (MonoGame) | MonoGameTemplate.Net8 |
