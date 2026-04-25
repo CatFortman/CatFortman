@@ -54,52 +54,34 @@ OAuth2 / OpenID Connect authorization server implementing authentication flows u
 ```mermaid
 graph LR
 
-%% =====================
-%% Application Systems
-%% =====================
-subgraph A[Application Systems]
-    MC[MatchConnect.FullStack]
-    MG[MonoGameTemplate.Net8]
+subgraph A[Applications]
+MC[MatchConnect]
+MG[MonoGameTemplate]
 end
 
-%% =====================
-%% Platform Systems
-%% =====================
-subgraph B[Platform & Infrastructure Systems]
-    AUTH[OpenIddict.AuthorizationServer]
-    MIG[MigrationTracker]
+subgraph B[Platform]
+AUTH[Auth Server]
+MIG[MigrationTracker]
 end
 
-%% =====================
-%% Data Systems
-%% =====================
-subgraph C[Data & Operational Systems]
-    SQL[SqlServer.EngineeringToolkit]
+subgraph C[Data]
+SQL[SQL Toolkit]
 end
 
-%% =====================
-%% Future Work
-%% =====================
-subgraph D[Future Direction]
-    AZ[Azure Event-Driven Pipeline]
+subgraph D[Future]
+AZ[Event Pipeline]
 end
-
-%% =====================
-%% Main system flow (left → right)
-%% =====================
 
 MC --> AUTH
 MC --> SQL
-
 MG --> MC
+
+MIG --> SQL
 
 AUTH --> MC
 
-MIG --> SQL
-SQL --> MIG
-
-AZ --> SQL
 AZ --> MIG
+AZ --> SQL
 ```
 
 ## GitHub Stats
