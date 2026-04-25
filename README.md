@@ -1,7 +1,7 @@
 # Hi, I'm Cat 🐱  
 Technical Lead / Software Developer focused on backend systems, full-stack development, and software architecture.
 
-I work primarily on building reliable, maintainable software systems and working across backend systems, cloud services, and game development.
+I specialize in designing and building reliable, maintainable software systems across backend services, cloud platforms, and game development.
 
 ---
 
@@ -15,7 +15,7 @@ I work primarily on building reliable, maintainable software systems and working
 | 🗄️ SQL Server / Data Design | MigrationTracker, SQL toolkit |
 | 🌐 SPA Development (TypeScript) | Angular-based client architecture |
 | 🎮 Game Development (MonoGame) | MonoGameTemplate.Net8 |
-| 🧱 System Design | MigrationTracker + tooling architecture |
+| 🧱 System Design | MigrationTracker, Auth Server |
 | 🔄 Data Pipelines | Transaction analysis + logging concepts (planned) |
 
 ---
