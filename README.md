@@ -1,7 +1,9 @@
 <p align="center">
   <img src="assets/screen.jpg" alt="Header" width="100%%" />
 </p>
+
 # Hi, I'm Cat 🐱  
+
 Technical Lead / Software Developer focused on backend systems, full-stack development, and software architecture.
 
 I specialize in designing and building reliable, maintainable software systems across backend services, cloud platforms, and game development.
