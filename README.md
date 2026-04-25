@@ -31,9 +31,6 @@ I work primarily on building reliable, maintainable software systems and explori
 
 ---
 
-
----
-
 ## Highlighted Projects
 
 ### [MigrationTracker](https://github.com/CatFortman/MigrationTracker)  
