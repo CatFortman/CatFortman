@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cat.jpg" alt="Header" width="100%%" />
+  <img src="assets/screen.jpg" alt="Header" width="100%%" />
 </p>
 # Hi, I'm Cat 🐱  
 Technical Lead / Software Developer focused on backend systems, full-stack development, and software architecture.
