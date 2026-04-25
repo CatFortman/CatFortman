@@ -1,7 +1,7 @@
 # Hi, I'm Cat 🐱  
 Technical Lead / Software Developer focused on backend systems, full-stack development, and software architecture.
 
-I work primarily on building reliable, maintainable software systems and exploring areas across backend engineering, cloud services, and game development.
+I work primarily on building reliable, maintainable software systems and working across backend systems, cloud services, and game development.
 
 ---
 
@@ -49,39 +49,28 @@ Collection of SQL Server scripts covering database operations, debugging, schema
 OAuth2 / OpenID Connect authorization server implementing authentication flows using OpenIddict.
 
 ---
-## 🧭 Architecture Map
+## 🗺️ Domain Map
 
 ```mermaid
-graph LR
+graph TB
 
 subgraph A[Applications]
 MC[MatchConnect]
-MG[MonoGameTemplate]
+MG[MonoGame Template]
 end
 
-subgraph B[Platform]
-AUTH[Auth Server]
+subgraph B[Platform & Security]
+AUTH[Auth Server - OpenIddict]
 MIG[MigrationTracker]
 end
 
-subgraph C[Data]
-SQL[SQL Toolkit]
+subgraph C[Data & Tooling]
+SQL[SqlServer Toolkit]
 end
 
-subgraph D[Future]
-AZ[Event Pipeline]
+subgraph D[Future Architecture Work]
+AZ[Event-Driven Pipeline]
 end
-
-MC --> AUTH
-MC --> SQL
-MG --> MC
-
-MIG --> SQL
-
-AUTH --> MC
-
-AZ --> MIG
-AZ --> SQL
 ```
 
 ## GitHub Stats
