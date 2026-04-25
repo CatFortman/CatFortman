@@ -7,29 +7,34 @@ I work primarily on building reliable, maintainable software systems and explori
 
 ## Technologies
 
-- ⚙️ .NET (C#, ASP.NET Core, .NET)
-- ☁️ Azure Cloud Services
-- 🗄️ SQL Server
-- 🎮 MonoGame
-- 🧠 ML.NET (exploratory / learning)
-- 🔐 REST APIs, JWT, OAuth2
-- 🧱 Entity Framework Core & Dapper
-- 🌐 JavaScript / TypeScript (SPA development)
+| Skills | Applied Work |
+|--------|-------------|
+| ⚙️ .NET / ASP.NET Core | Full-stack web applications (MatchConnect, Auth systems) |
+| ☁️ Azure Cloud Services | Event-driven architecture exploration (in progress) |
+| 🔐 Authentication / OAuth2 / JWT | OpenIddictAuthorizationServer |
+| 🗄️ SQL Server / Data Design | MigrationTracker, SQL toolkit |
+| 🌐 SPA Development (TypeScript) | Angular-based client architecture |
+| 🎮 Game Development (MonoGame) | MonoGameTemplate.Net8 |
+| 🧱 System Design | MigrationTracker + tooling architecture |
+| 🔄 Data Pipelines | Transaction analysis + logging concepts (planned) |
 
 ---
 
-## Areas of Focus
+## 🧠 Focus Areas
 
-- 🏗️ Backend systems and API design  
-- 🔐 Authentication and identity systems  
-- ☁️ Cloud-based application development (Azure)  
-- 🔄 Data processing and automation workflows  
-- 🎮 Game development with MonoGame  
-- 🧾 Database design, scripting, and migration tooling  
+- Backend system design and API architecture  
+- Identity and authentication systems  
+- Cloud-native and event-driven systems  
+- Database engineering and migration tooling  
+- Full-stack application development  
+- Game engine and framework design  
 
 ---
 
-## Projects
+
+---
+
+## Highlighted Projects
 
 ### [MigrationTracker](https://github.com/CatFortman/MigrationTracker)  
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
@@ -45,14 +50,14 @@ Reusable MonoGame 3.8 template for .NET 8, structured for rapid 2D game developm
 
 ---
 
-### [SampleSqlScripts](https://github.com/CatFortman/SampleSqlScripts)  
+### [SqlServer.EngineeringToolkit](https://github.com/CatFortman/SqlServer.EngineeringToolkit)  
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2019-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 Collection of SQL Server scripts covering database operations, debugging, schema analysis, and maintenance patterns.
 
 ---
 
-### [OpenIddictAuthorizationServer](https://github.com/CatFortman/OpenIddictAuthorizationServer)  
+### [OpenIddict.AuthorizationServer](https://github.com/CatFortman/OpenIddict.AuthorizationServer)  
 ![.NET](https://img.shields.io/badge/.NET-9.0-blue)
 
 OAuth2 / OpenID Connect authorization server implementing authentication flows using OpenIddict.
