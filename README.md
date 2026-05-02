@@ -39,9 +39,13 @@ Simplify database schema versioning with automated migration tracking and execut
 ### [MonoGameTemplate.Net8](https://github.com/CatFortman/MonoGameTemplate.Net8)  
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![GitHub stars](https://img.shields.io/github/stars/CatFortman/MonoGameTemplate.Net8?style=flat)
 
-Reusable MonoGame 3.8 template for .NET 8, structured for rapid 2D game development with shared architecture and content pipeline support.
+Reusable MonoGame 3.8 (DesktopGL) framework built on .NET 8, designed for rapid 2D game development.
 
-**Features**: Pre-configured project structure • Content pipeline setup • Shared architecture patterns
+The project provides a lightweight engine-style architecture with both Object-Oriented (scene-based) and Entity Component System (ECS) support, shared engine utilities, and a preconfigured MonoGame Content Pipeline.
+
+It is intended as a foundation for building 2D games with clean separation between engine systems, gameplay logic, and content management.
+
+**Features**: ECS + OOP architecture • Tilemap system • Sprite/animation system • Input abstraction • World bounds & collision systems • Shared engine library
 
 ---
 
