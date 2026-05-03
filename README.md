@@ -19,7 +19,7 @@ I specialize in designing and building reliable, maintainable software systems a
 | 🔐 Authentication / OAuth2 / JWT | OpenIddict.AuthorizationServer |
 | 🗄️ SQL Server / Data Design | MigrationTracker, SQL toolkit |
 | 🌐 SPA Development (TypeScript) | Angular-based client architecture |
-| 🎮 Game Development (MonoGame) | MonoGameTemplate.Net8 |
+| 🎮 Game Development (MonoGame) | MonoGameFramework.Net8 |
 | 🧱 System Design | MigrationTracker, Auth Server |
 | 🔄 Data Pipelines | Transaction analysis + logging concepts (planned) |
 
@@ -73,7 +73,7 @@ graph TB
 
 subgraph A[Applications]
 MC[MatchConnect]
-MG[MonoGame Template]
+MG[MonoGame Framework]
 end
 
 subgraph B[Platform & Security]
