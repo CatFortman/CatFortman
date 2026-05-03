@@ -36,8 +36,8 @@ Simplify database schema versioning with automated migration tracking and execut
 
 ---
 
-### [MonoGameTemplate.Net8](https://github.com/CatFortman/MonoGameTemplate.Net8)  
-![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![GitHub stars](https://img.shields.io/github/stars/CatFortman/MonoGameTemplate.Net8?style=flat)
+### [MonoGameFramework.Net8](https://github.com/CatFortman/MonoGameFramework.Net8)  
+![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![GitHub stars](https://img.shields.io/github/stars/CatFortman/MonoGameFramework.Net8?style=flat)
 
 Reusable MonoGame 3.8 (DesktopGL) framework built on .NET 8, designed as a lightweight foundation for 2D game development.
 
