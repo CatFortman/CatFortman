@@ -17,18 +17,18 @@ I specialize in designing and building reliable, maintainable software systems a
 | ⚙️ .NET / ASP.NET Core | Full-stack web applications (MatchConnect, Auth systems) |
 | ☁️ Azure Cloud Services | Event-driven architecture exploration (in progress) |
 | 🔐 Authentication / OAuth2 / JWT | OpenIddict.AuthorizationServer |
-| 🗄️ SQL Server / Data Design | MigrationTracker, SQL toolkit |
+| 🗄️ SQL Server / Data Design | MigrationOps, SQL toolkit |
 | 🌐 SPA Development (TypeScript) | Angular-based client architecture |
 | 🎮 Game Development (MonoGame) | MonoGameFramework.Net8 |
-| 🧱 System Design | MigrationTracker, Auth Server |
+| 🧱 System Design | MigrationOps, Auth Server |
 | 🔄 Data Pipelines | Transaction analysis + logging concepts (planned) |
 
 ---
 
 ## ⭐ Highlighted Projects
 
-### [MigrationTracker](https://github.com/CatFortman/MigrationTracker)  
-![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![GitHub stars](https://img.shields.io/github/stars/CatFortman/MigrationTracker?style=flat)
+### [MigrationOps](https://github.com/CatFortman/MigrationOps)  
+![.NET](https://img.shields.io/badge/.NET-8.0-blue) ![GitHub stars](https://img.shields.io/github/stars/CatFortman/MigrationOps?style=flat)
 
 Simplify database schema versioning with automated migration tracking and execution. Inspired by SQL source control and modern schema management patterns.
 
@@ -78,7 +78,7 @@ end
 
 subgraph B[Platform & Security]
 AUTH[Auth Server - OpenIddict]
-MIG[MigrationTracker]
+MIG[MigrationOps]
 end
 
 subgraph C[Data & Tooling]
