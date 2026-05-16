@@ -92,9 +92,9 @@ end
 
 ## 💯 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CatFortman&show_icons=true&theme=gruvbox)](https://github.com/CatFortman)
+![Cat's GitHub stats](./profile/stats.svg)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CatFortman&layout=compact&langs_count=6&theme=gruvbox)](https://github.com/CatFortman)
+![Top languages](./profile/top-langs.svg)
 
 ---
 
