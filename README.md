@@ -96,6 +96,7 @@ end
 
 ![Top languages](./profile/top-langs.svg)
 
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 ---
 
 ![](https://komarev.com/ghpvc/?username=CatFortman&color=orange)
