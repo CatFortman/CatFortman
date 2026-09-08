@@ -6,7 +6,7 @@
 
 Technical Lead / Software Developer focused on backend systems, full-stack development, and software architecture.
 
-I specialize in designing and building reliable, maintainable software systems across backend services and cloud platforms. In my free time, I focus on 2D game frameworks and games.
+I specialize in designing and building reliable, maintainable software systems across backend services and cloud platforms. In my free time, I focus on developing a 2D game engine and game project for fun.
 
 ---
 
