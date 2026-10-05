@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">cat fortman&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 284, Total Commits  (last year) : 232, Total PRs: 46, Total Issues: 61, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 284, Total Commits  (last year) : 234, Total PRs: 46, Total Issues: 81, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.91978105947888;
+        stroke-dashoffset: 91.15109111985056;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >232</text>
+      >234</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >61</text>
+      >81</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
